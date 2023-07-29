@@ -48,6 +48,14 @@ cd formula-1-website
 
 4. If you want to test the login functionality, you can set up a local web server or use an online hosting service to run the PHP files.
 
+## How Website looks
+![image](https://github.com/Devanshi-Crypto/formula1-clone/assets/76578430/35f09ccb-5e23-493e-bceb-53168a33e88b)
+![image](https://github.com/Devanshi-Crypto/formula1-clone/assets/76578430/323b0440-45bc-4517-a69f-c4cb5a30bca7)
+![image](https://github.com/Devanshi-Crypto/formula1-clone/assets/76578430/770c4f1d-6f50-453f-a091-af1daa3870cc)
+![image](https://github.com/Devanshi-Crypto/formula1-clone/assets/76578430/e1b26451-7181-4ea7-9d48-c1d2f1b8b673)
+![image](https://github.com/Devanshi-Crypto/formula1-clone/assets/76578430/0194347b-2e62-4674-8156-c92837966b6b)
+
+
 ## Contributing
 
 We welcome contributions from the community to enhance the website and add new features. If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
