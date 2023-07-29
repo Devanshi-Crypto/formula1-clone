@@ -26,9 +26,17 @@
         </div>
 
         <ul class="nav">
-            <li><a href="#pistas">CIRCUITS</a></li>
-            <li><a href="#pilotos">DRIVERS</a></li>
-            <li><a href="#equipes">TEAMS</a></li>
+            <li><a href="#circuit">CIRCUITS</a></li>
+            <li><a href="#driver">DRIVERS</a></li>
+            <li><a href="#team">TEAMS</a></li>
+            <?php
+            // Check if the user is logged in (you may need to modify this based on your login session implementation)
+            if (isset($_SESSION["user_id"])) {
+                echo '<li><a href="profile.php">Profile</a></li>';
+            } else {         
+                echo '<li><a href="register.php">Register</a></li>';
+            }
+            ?>
         </ul>
     </header>
 
